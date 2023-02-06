@@ -1,0 +1,1 @@
+export const API = "https://furniture-backend.onrender.com"
